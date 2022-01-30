@@ -6,6 +6,7 @@
 
 
 ## Interesting Projects:
+- [todo](https://github.com/Tom-England/todo): A todo list for the terminal
 - [tfetch](https://github.com/Tom-England/tfetch): A fast linux sysfetch tool written in C
 - [wordoftheday](https://github.com/Tom-England/wordoftheday): An AwesomeWM widget for showing a word of the day
 
