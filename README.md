@@ -2,7 +2,7 @@
 
 ### 👨‍🎓 B.Sc Computer Science First from Newcastle University
 
-### 🖥I do quite a bit of coding in C and C# as well as some in Python and a few other languages.🖥
+### 🖥Building automations and databases in .NET and SQL Server🖥
 
 
 ## Interesting Projects:
